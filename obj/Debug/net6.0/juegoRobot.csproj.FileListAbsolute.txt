@@ -1,0 +1,15 @@
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\juegoRobot\bin\Debug\net6.0\juegoRobot.exe
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\juegoRobot\bin\Debug\net6.0\juegoRobot.deps.json
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\juegoRobot\bin\Debug\net6.0\juegoRobot.runtimeconfig.json
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\juegoRobot\bin\Debug\net6.0\juegoRobot.dll
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\juegoRobot\bin\Debug\net6.0\juegoRobot.pdb
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\juegoRobot\obj\Debug\net6.0\juegoRobot.csproj.AssemblyReference.cache
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\juegoRobot\obj\Debug\net6.0\juegoRobot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\juegoRobot\obj\Debug\net6.0\juegoRobot.AssemblyInfoInputs.cache
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\juegoRobot\obj\Debug\net6.0\juegoRobot.AssemblyInfo.cs
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\juegoRobot\obj\Debug\net6.0\juegoRobot.csproj.CoreCompileInputs.cache
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\juegoRobot\obj\Debug\net6.0\juegoRobot.dll
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\juegoRobot\obj\Debug\net6.0\refint\juegoRobot.dll
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\juegoRobot\obj\Debug\net6.0\juegoRobot.pdb
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\juegoRobot\obj\Debug\net6.0\juegoRobot.genruntimeconfig.cache
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\juegoRobot\obj\Debug\net6.0\ref\juegoRobot.dll
